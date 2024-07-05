@@ -5,73 +5,69 @@
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODBhMDk1MzAtNmM0OC00ZjM0LTk1N2ItZGYxNzdiYjYxNjgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Problem Statement
+🌟 Project Showcase: Power BI in Action! 🌟
 
+I'm excited to share the details of a recent project where I leveraged my Power BI skills to deliver impactful insights and drive business decisions for AtliQ Hardware. 🎉
 
-AtliQ Hardware encountered challenges driven by outdated Excel-based analytics. To combat this issue, company made a strategic decision to embark on an insightful data analysis.
+Project Background:
+AtliQ Hardware encountered challenges driven by outdated Excel-based analytics. To combat this issue, the company made a strategic decision to embark on an insightful data analysis.
 
-🌟Project Highlights:-
+Project Highlights:
+💰 Finance View:
 
-💰 Finance View: Financial planning and Expense Management. 
-Get  P & L statement for any customer / product / country or aggregation of the above over any time period and More..
+Financial planning and expense management.
+Get P&L statements for any customer, product, country, or aggregation over any time period.
+And more...
+📊 Sales View:
 
-📊Sales View: Increase sales revenue with Customer and Product Performance. Analyze the performance of your customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
+Increase sales revenue with customer and product performance analysis.
+Analyze the performance of customers over key metrics like net sales and gross margin.
+View the same in a profitability/growth matrix.
+📢 Marketing View:
 
-📢Marketing View: Implement data-driven marketing strategies.Analyze the performance of your product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
+Implement data-driven marketing strategies.
+Analyze the performance of products over key metrics like net sales and gross margin.
+View the same in a profitability/growth matrix.
+🚚 Supply Chain View:
 
-🚚Supply Chain View: Optimization metrics for efficient supply chain management. Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
+Optimization metrics for efficient supply chain management.
+Get forecast accuracy, net error, and risk profile for products, segments, categories, customers, etc.
+👨‍💼 Executive View:
 
-👨‍💼Executive View: Developed an executive dashboard for real-time performance monitoring. A top level dashboard for executives consolidating top insights from all dimensions of business.
+Developed an executive dashboard for real-time performance monitoring.
+A top-level dashboard for executives consolidating top insights from all business dimensions.
+🛠️ Tech Stack:
+Power BI Desktop
+Power BI Service
+Power Query
+DAX Language
+DAX Studio for Performance Analysis
+Project Charter File
+📈 Business Terminology:
+Net Sales and Net Invoice Sales
+Gross Margin and Gross Margin %
+Pre-Invoice Deductions and Post-Invoice Deductions
+COGS (Cost of Goods Sold)
+Net Profit and Net Profit %
+Absolute Error, Variance, and Targets
+YTG (Year to Go) and YTD (Year to Date)
+Direct, Retailer, Customer, Consumer, and Distributors
+💡 Learned Power BI Techniques:
+Creating calculated columns and DAX measures
+Data modeling, data validation techniques, and using KPI indicators
+Using bookmarks to switch between two visuals & conditional formatting
+Page navigation with buttons
+Using tooltips to save page area
+Dynamic titles based on the applied filters
+Power BI services for publishing and sharing reports online
+Auto-refresh setup for data through the gateway
+Creating a date table using M language
+Impact:
+This project not only showcased the power of Power BI in transforming raw data into meaningful insights but also highlighted my ability to use data visualization to support business growth. The insights derived from this project are now being used to refine sales strategies and enhance customer satisfaction.
 
-🛠️Tech Stack :-
+🚀 What's Next?
+I'm eager to take on new challenges and collaborate with teams that are passionate about harnessing the power of data for business success. If you're looking for someone who can turn data into actionable insights and create compelling visualizations, let's connect!
 
-🔹Power BI Desktop
-
-🔹Power BI Service
-
-🔹Power Query
-
-🔹DAX language
-
-🔹Dax studio for Performance Analysis
-
-🔹Project Charter file
-
-📈Business Terminology:-
-
-🔹Net sales and Net Invoice Sales
-
-🔹Gross Margin and Gross Margin %
-
-🔹Pre invoice deductions and Post invoice deductions
-
-🔹COGS(cost of goods sold)
-
-🔹Net Profit and Net Profit %
-
-🔹Absolute Error, Variance and Targets
-
-🔹YTG (year to go) and YTD ( year to date)
-
-🔹Direct ,retailer, customer , consumer and distributors
-
-💡Learnt Power BI techniques:-
-
-🔹Creating calculated columns and DAX measures
-
-🔹Data Modelling ,data validation techniques and using KPI indicators
-
-🔹Using bookmarks to switch between two visuals &conditional formatting
-
-🔹Page navigation with buttons
-
-🔹Using tooltips to save page area
-
-🔹Dynamic titles based on the applied filters
-
-🔹Power BI services for publishing and sharing reports online
-
-🔹Auto refresh setup for data through gateway
-
-🔹Creating date table using M language
+#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #SalesAnalytics #ProfessionalGrowth #ProjectShowcase
 
 
