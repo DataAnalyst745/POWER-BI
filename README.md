@@ -2,7 +2,7 @@
 
 # Business Insights 360
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/b86abb9d-e0fa-4bf0-84d5-9dfcda99f0bb/ReportSection3e6d270a5b20870d7cd8?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODBhMDk1MzAtNmM0OC00ZjM0LTk1N2ItZGYxNzdiYjYxNjgzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Problem Statement
 
